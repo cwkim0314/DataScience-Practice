@@ -24,4 +24,3 @@ wnnet$wts
 wnnet$residuals
 
 plotnet(wnnet)
-
